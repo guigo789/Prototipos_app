@@ -7,3 +7,7 @@
 
 
 ## Links para os topicos da wiki 
+
+1° Página (Home) - https://github.com/guigo789/Prototipos_app/wiki
+
+2° Página (Aplicativo) - https://github.com/guigo789/Prototipos_app/wiki/Aplicativo
