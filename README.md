@@ -6,7 +6,7 @@
   E para que seja possível visualizar as informações, terá uma tela de cadastro para que o usuário consiga criar a conta. E logo após, será redirecionado para a tela de login.
 
 
-## Links para os topicos da wiki 
+## Links para os tópicos da wiki 
 
 1° Página (Home) - https://github.com/guigo789/Prototipos_app/wiki
 
