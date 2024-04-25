@@ -1,0 +1,35 @@
+name: turismosp
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.3.4 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+  - assets/sp_cidade.jpg
+  - assets/sp_paulista.jpg
+  - assets/sp_liberdade.jpg
+  - assets/sp_paulista_noite.jpg
+  - assets/edificios_sp.jpg
+  - assets/copan_sp.jpg
+  - assets/italia_sp.jpg
+  - assets/teatro_sp.jpg
+  - assets/sesc_sp.jpg
+  - assets/museus_sp.jpg
+  - assets/masp_sp.jpg
+  - assets/pinacoteca_sp.jpg
+  - assets/ipiranga_sp.jpg
+  - assets/arte_moderna_sp.jpg
+  - assets/sp_de_noite.jpg
