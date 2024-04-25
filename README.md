@@ -12,3 +12,5 @@
 1° Página (Home) - https://github.com/guigo789/Prototipos_app/wiki
 
 2° Página (Aplicativo) - https://github.com/guigo789/Prototipos_app/wiki/Aplicativo
+
+3° Página (Desenvolvimento do APP) - https://github.com/guigo789/Prototipos_app/wiki/Desenvolvimento-do-APP
